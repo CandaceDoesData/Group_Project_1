@@ -1,4 +1,4 @@
-﻿,PLAYER,Positions,TEAM,AGE,GP,W,L,MIN,PTS,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,FP,DD2,TD3,+/-
+﻿,PLAYER,TEAM,Position,AGE,Games Played,Wins,Loses,Minutes,Points,Field Goals Made,Field Goals Attmepted ,Field Goal %,3 Points Made,3 Points Attempted,3 Point %,Free Throw Made,Free throw Attempted,Free Throw %,Offensive Rebound,Defensive Rebound,Rebounds,Assists ,Turnover,Steals,Blocks,Personal Foul,Fantsy Points,Double Doubles,Triple Doubles,Plus-Minus
 58,Paolo Banchero,Forwards,ORL,20,72,31,41,33.7,20,6.7,15.6,42.7,1.2,4,29.8,5.5,7.4,73.8,1.2,5.7,6.9,3.7,2.8,0.8,0.5,2.2,35.2,14,0,-3
 66,Franz Wagner,Forwards,ORL,21,80,33,47,32.6,18.6,6.8,14,48.5,1.6,4.5,36.1,3.4,4,84.2,0.9,3.2,4.1,3.5,2.1,1,0.2,2.3,30.2,2,0,0.6
 93,Wendell Carter Jr.,Center,ORL,24,57,26,31,29.6,15.2,5.6,10.8,52.5,1.4,3.9,35.6,2.5,3.4,73.8,2.1,6.6,8.7,2.3,1.9,0.5,0.6,2.8,30.6,21,0,-0.7
