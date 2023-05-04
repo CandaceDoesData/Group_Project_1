@@ -1,0 +1,43 @@
+Team Presentation Script
+
+Section 1
+    Time: .5 minutes
+    Mark
+    
+Section 2 Mark to announce the section
+    Time: 1.5 minutes
+    
+    Jessica - Website Data Collection from Basketball-Reference.com
+    Candace - Website Data Collection from NBA.com
+    Mark - API Data Collection using nba_api
+    Dario
+    
+Section 3 Mark to announce the section
+    Time: 2.5 minutes
+    
+    Mark - Question 1 – Regular Season vs Playoff Percentage
+    Jessica - Question 2 – Last Season vs Best/Worst Seasons
+    Candace - Question 3 – How Does the Magic Compare to the League +    
+    Brenton - Question 4 - KPIs most closely related to wins 
+    Dario
+
+Section 4 Mark to announce the section
+    Time: 2.5 minutes
+    
+    Mark - Question 1 – Regular Season vs Playoff Percentage
+    Jessica - Question 2 – Last Season vs Best/Worst Seasons
+    Candace - Question 3 – How Does the Magic Compare to the League + the 5 next slides   
+    Brenton - Question 4 - KPIs most closely relate to wins + the 3 next slides
+    Dario
+    
+
+Section 5 Mark to announce the section
+    Time 1 minutes
+    
+    Mark - Question 1 – Regular Season vs Playoff Percentage
+    Jessica
+    Candace
+    Brenton
+    Dario
+
+total 7 minutes
