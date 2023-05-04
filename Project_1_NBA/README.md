@@ -1,17 +1,26 @@
 # Bootcamp_Project_1
 # Project Analysis and Write Up
 
-Rangel Condor Dario\n
+Rangel Condor Dario
+
 Question 5 : 
 
-Bethel Brenton\n
+
+Bethel Brenton
+
 Question 4 : 
 
-Richter Jessica\n
+
+Richter Jessica
+
 Question 2 : 
 
-Stingley Candace\n
+
+Stingley Candace
+
 Question 3 : 
 
-Meinhardt Mark\n
+
+Meinhardt Mark
+
 Question 1 : 
