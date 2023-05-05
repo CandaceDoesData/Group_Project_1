@@ -43,8 +43,13 @@ and Steals and Blocks which were least related to Win.
 
 ## Richter Jessica
 
-### Question 2 : 
+### Question 2 : How does the team makeup and performance from last season compare to previous seasons?
 
+- When comparing the Magic’s win/loss percentages to all previous seasons, the results indicate that with a .415 win/loss percentage in 2022-2023 they performed slightly below the team’s .468 average across all years. 
+
+- In terms of the team’s defensive rating versus offensive rating, or how many points the Magic allowed other teams to make against them versus their own points made, their worst years show a high number of points allowed and a relatively low number of points made. The take-away then is that in this last season they were quite effective at making points but performed at one of their lowest levels in terms of defense. 
+
+- Finally, a comparison of players' experience going into the season indicates that the Magic was at a disadvantage going into the season as they had an average of 2.5 years less experience than in their most successful years.
 
 ## Stingley Candace
 
