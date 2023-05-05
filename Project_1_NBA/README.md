@@ -85,4 +85,16 @@ and Steals and Blocks which were least related to Win.
 
 ## Meinhardt Mark
 
-### Question 1 : 
+### Question 1 : Is there a correlation between regular season and playoff winning percentage?
+   - Data was collected through the python module nba_api
+   - The data was filtered to include only seasons where the Magic made the playoffs
+   - A two-plot line chart was created to show the different winning percentages
+   - A bar chart was created to show the number of games played in each playoff season
+   - A T test was applied to determine whether or not there was a correlation between regular season wins and playoff wins
+   - The correlation of season winning percentage versus playoff winning percentage is important because the regular season winning percentage determines home court advantage throughout the playoffs.
+   - Statistics show the team with the home court advantage has won 53 of 74 championships, or 71.6% of the time. 
+   - There are no next steps with regard to this KPI
+
+
+
+
