@@ -29,7 +29,15 @@ Starting Guards and Center were at or slightly above league averageReserve playe
 
 Bethel Brenton
 
-Question 4 : 
+Question 4 : To determine which KPIs most closely relate to wins for the Orlando Magic Team in the 2022 -2023 Games
+According to the Pearson Correlation Coefficient Table, the KPIs all had a positive relation to wins.
+However, a strong positive relationship to Wins were shown by: 
+1) Field Goals Made
+2) Free Throws Made
+3) Rebounds
+Recommendations to the team as a whole to work on 3 Points which have a moderate positive effect on Wins,
+and Steals and Blocks which were least related to Win.
+
 
 
 Richter Jessica
