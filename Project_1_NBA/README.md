@@ -1,4 +1,8 @@
 # Bootcamp_Project_1
+
+## Objective: 
+We have been contracted by the Orlando Magic Front Office to do a team evaluation now that the 2022-23 NBA Regular Season has concluded. We have been instructed to evaluate their players’ performance based on Key Performance Indicators(KPIs) and compare the players to other league performers. With this information the Front Office will use it to locate holes in the team, continue to develop players where they need to develop or contract new players to fill the needed role. 
+
 # Project Analysis and Write Up
 
 ## Rangel Condor Dario
